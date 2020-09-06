@@ -1,0 +1,3 @@
+centraldogma:
+  hosts:
+    - localhost:36462
